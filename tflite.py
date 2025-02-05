@@ -1,6 +1,6 @@
 import tensorflow as tf
 
-saved_model_dir = "saved_model"
+saved_model_dir = "saved_model_directory"
 
 converter = tf.lite.TFLiteConverter.from_saved_model(saved_model_dir)
 
