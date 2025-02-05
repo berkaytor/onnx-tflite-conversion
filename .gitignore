@@ -1,0 +1,5 @@
+venv/
+saved_model_directory/
+
+model.tflite
+model.onnx
